@@ -29,4 +29,5 @@ def test_logout():
     assert text_placeholder == 'Username'
     print(f'{text_placeholder} == Username')
 
+
     driver.quit()
